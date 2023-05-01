@@ -1,11 +1,7 @@
 # Drum-Machine
-** Simple Drum Machine + Recording **
+**Simple Drum Machine + Recording**
 
 You Could Try [Drum Machine Recorder - Live Demo](https://mo3110.github.io/drum_machine_recorder.github.io/)
-
-<picture>
- <img alt="Drum Machine" src="drum-machine.PNG">
-</picture>
 
 ![Drum Machine](drum-machine.PNG)
 
